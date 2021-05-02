@@ -1,0 +1,155 @@
+
+body {
+    
+    background-size: cover;
+    height: 100%;
+    background-repeat: no-repeat;
+    }
+
+    .about{
+        background-image: url(Assets/fantastic-seascape-with-ripples_1232-424.jpg);
+        background-size:cover;
+        background: position 100%;
+    }
+    .contact{
+        background-image: url(Assets/blue-winter-sea-landscape-15961853.jpg);
+        background-size:cover;
+        background: position 100%;
+    }
+    .experience{
+        background-image: url(Assets/FreeJumpingGreatWhite.jpg);
+        background-size:cover;
+        background: position 100%;
+    }
+.icon{
+    
+    height:150px;
+    align-items: center;
+    padding: 20px;
+    position:relative;
+    top: 250px;
+    left:1125px;
+    }
+    .aicon{
+    
+        height:150px;
+        align-items: center;
+        padding: 20px;
+        position:relative;
+       ;
+       
+        }
+
+    .eicon{
+    
+        height:150px;
+        align-items: center;
+        padding: 20px;
+        position:relative;
+        top: 10px;
+        left:1105px;
+        }
+   
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.contact{
+	align-content: center;
+}
+  
+  p{
+      font-family: 'Raleway', sans-serif;
+      text-align: center;
+      letter-spacing: 1.5px;
+      color: black;
+      font-size: 1em;
+      align-content: center;
+  }
+  img.center {
+      display: block;
+      margin: 0 auto;
+  }
+  button{
+      align-content: center;
+  }
+  .col-md-4{
+      align-content: center;
+      text-align: center;
+  }
+  .card-body{
+      align-content: center;
+      text-align: center;
+  }
+  .card-img-top{
+      padding-top: 3.5px;
+      padding-left: 3.5px;
+      padding-right: 3.5px;
+      border-radius: 10px;
+  }
+  .card-body{
+      box-shadow:10px 10px 10px rgb(163, 94, 29);
+      border-radius: 10px;
+  }
+  img{
+      border-radius: 20%;
+  }
+  .krav{
+      border-radius: 0%;
+      height: 200px;
+      width: 200px;
+  }
+  .text-light{
+      color: #f8f9fa;
+  }
+  .text-center{
+      text-align: center;
+  }
+  footer {
+    background-color: #565b9e;
+    height: 25px;
+    font-size: 1.2em;
+    color:wheat;
+    text-align: center;
+    padding: 1.5em 2.0em;
+    position: fixed;
+    bottom: 0;
+    position: fixed;
+    left: 0;
+    width: 100%;
+    border: solid, 
+}
+footer ul#menuFooter {
+    display: inline-block;
+    list-style: none;
+    margin: 0 0 0 0.6em;
+    padding: 0;
+}
+
+footer ul li {
+    display: inline-block;
+    padding: 0 0.7em 0 0;
+    margin: 0;
+}
+
+footer ul li::before {
+    content: "| ";
+    padding-right: 00.75em;
+}
+
+footer a, footer a:visited {
+    color: wheat;
+    text-decoration: none;
+
+}
+
+footer a:hover {
+    color: wheat;
+    text-decoration: underline;
+}
+.navbar-brand{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+  © 2021 GitHub, Inc.

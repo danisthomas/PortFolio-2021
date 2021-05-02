@@ -1,0 +1,14 @@
+.icon{
+    
+    height:150px;
+    align-items: center;
+    padding: 20px;
+    position:relative;
+    top: 250px;
+    left:1125px;
+    }
+    .experience{
+        background-image: url(Assets/FreeJumpingGreatWhite.jpg);
+        background-size:cover;
+        background: position 100%;
+    }
