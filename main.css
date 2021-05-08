@@ -12,6 +12,9 @@ body {
         background: position 100%;
         
     }
+    .about p{
+        color: rgb(56, 20, 155);
+    }
     .contact{
         background-image: url(Assets/blue-winter-sea-landscape-15961853.jpg);
         background-size:cover;
@@ -100,8 +103,9 @@ h2{
   .krav{
       border-radius: 0%;
       height: 200px;
-      width: 200px;
-  }
+      width: 200px;}
+
+     } 
   .text-light{
       color: #f8f9fa;
   }
@@ -153,4 +157,5 @@ footer a:hover {
 .navbar-brand{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
 }
+
   © 2021 GitHub, Inc.
